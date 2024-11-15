@@ -7,3 +7,5 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AC34&theme=monokai)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AC34&theme=monokai&utcOffset=8)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ac34)](https://github.com/anuraghazra/github-readme-stats)
